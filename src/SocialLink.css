@@ -1,0 +1,7 @@
+.social-link {
+    color: darkgray;
+}
+
+.social-link:hover {
+    color: gray;
+}

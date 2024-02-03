@@ -1,0 +1,117 @@
+.ball {
+	position: relative;
+	width: 35px;
+	height: 35px;
+	display: inline-block;
+	border-radius: 50%;
+	background-color: gray;
+    filter: brightness(50%);
+}
+
+.ball-1 {
+    left: -25%;
+    animation: ball-1 0.75s infinite;
+}
+
+.ball-2 {
+	animation: ball-2 0.75s infinite;
+}
+
+.ball-3 {
+	animation: ball-3 0.75s infinite;
+}
+
+.ball-4 {
+    right: -25%;
+    animation: ball-4 0.75s infinite;
+}
+
+@keyframes ball-1 {
+    0% {
+        left: -25%;
+    }
+    12.5% {
+        left: -25%;
+    }
+    25% {
+        left: -50%;
+    }
+    37.5% {
+        left: -25%;
+    }
+}
+
+@keyframes ball-2 {
+    0% {
+        left: 0;
+    }
+    12.5% {
+        left: -25%;
+    }
+    25% {
+        left: -25%;
+    }
+    37.5% {
+        left: -25%;
+    }
+    50% {
+        left: 0;
+    }
+}
+
+@keyframes ball-3 {
+	0% {
+        right: 0;
+    }
+    12.5% {
+        right: 0;
+    }
+    25% {
+        right: 0;
+    }
+    37.5% {
+        right: 0;
+    }
+    50% {
+        right: 0;
+    }
+    62.5% {
+        right: -25%;
+    }
+    75% {
+        right: -25%;
+    }
+    87.5% {
+        right: -25%;
+    }
+    100% {
+        right: 0;
+    }
+}
+
+@keyframes ball-4 {
+	0% {
+        right: -25%;
+    }
+    12.5% {
+        right: -25%;
+    }
+    25% {
+        right: -25%;
+    }
+    37.5% {
+        right: -25%;
+    }
+    50% {
+        right: -25%;
+    }
+    62.5% {
+        right: -25%;
+    }
+    75% {
+        right: -50%;
+    }
+    87.5% {
+        right: -25%;
+    }
+}
