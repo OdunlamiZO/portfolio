@@ -177,7 +177,7 @@ function App() {
                                             </p>
                                             <div style={{ marginTop: "20px" }}>
                                                 <a
-                                                    href="https://drive.google.com/file/d/1U-m63XUh1IF64-GmNbHCoNh1cWKTZSkt/view?usp=sharing"
+                                                    href="https://docs.google.com/document/d/1TF3HtRsea6YeK2dMsbhB31YRlIQWl0veFQkUfukjE4A/edit?usp=sharing"
                                                     className="animate-border"
                                                     style={{
                                                         borderBottom:
