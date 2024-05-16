@@ -161,19 +161,19 @@ function App() {
                                                 Lagos, Nigeria. I have
                                                 experience building with Java
                                                 and its popular framework,
-                                                Spring; PHP and Laravel; and Go.
-                                                I have knowledge of SQL
+                                                Spring; PHP and Laravel; NodeJS
+                                                and Go. I have knowledge of SQL
                                                 databases (MySQL & PostgreSQL)
-                                                and I am an expert in building
-                                                RESTful APIs and services; even
-                                                GraphQL APIs.
+                                                and MongoDB (NoSQL). I am an
+                                                expert in building RESTful APIs
+                                                and services; even GraphQL APIs.
                                             </p>
                                             <p>
                                                 I have also some proficiency in
                                                 frontend development, having
-                                                strong knowledge of HTML; CSS3
-                                                and Tailwind CSS; and JavaScript
-                                                with its popular library, React.
+                                                strong knowledge of HTML, CSS3
+                                                and JavaScript with its popular
+                                                library, React.
                                             </p>
                                             <div style={{ marginTop: "20px" }}>
                                                 <a
