@@ -1,10 +1,10 @@
 .ball {
-	position: relative;
-	width: 35px;
-	height: 35px;
-	display: inline-block;
-	border-radius: 50%;
-	background-color: gray;
+    position: relative;
+    width: 35px;
+    height: 35px;
+    display: inline-block;
+    border-radius: 50%;
+    background-color: gray;
     filter: brightness(50%);
 }
 
@@ -14,11 +14,11 @@
 }
 
 .ball-2 {
-	animation: ball-2 0.75s infinite;
+    animation: ball-2 0.75s infinite;
 }
 
 .ball-3 {
-	animation: ball-3 0.75s infinite;
+    animation: ball-3 0.75s infinite;
 }
 
 .ball-4 {
@@ -60,7 +60,7 @@
 }
 
 @keyframes ball-3 {
-	0% {
+    0% {
         right: 0;
     }
     12.5% {
@@ -90,7 +90,7 @@
 }
 
 @keyframes ball-4 {
-	0% {
+    0% {
         right: -25%;
     }
     12.5% {
